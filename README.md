@@ -19,3 +19,7 @@ MongoDB索引优化
 <pre>
 MongoDB中的事务
 </pre>
+
+MongoDB分布式集群
+
+![](https://i.imgur.com/wEl91OA.png)
